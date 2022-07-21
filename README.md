@@ -1,16 +1,9 @@
 # bitcoin_tracker
 
-A new Flutter application.
+# A  Flutter application.
 
-## Getting Started
+## This is a flutter app using CupertinoPicker and DropdownButton 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![21](https://user-images.githubusercontent.com/51314161/180305290-924395d9-5825-45d2-8403-aaa2c3ccca8f.jpg)
+![22](https://user-images.githubusercontent.com/51314161/180305296-3b976926-0305-4b36-928c-72bc8a8e7a92.jpg)
+![23](https://user-images.githubusercontent.com/51314161/180305297-b8420e43-a9c1-425d-98ba-a533a69af68b.jpg)
